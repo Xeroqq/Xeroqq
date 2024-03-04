@@ -6,7 +6,7 @@
 - 😄 Pronouns: Mechanic
 - ⚡ Fun fact: TERRORBLADE.
 
-- PS: Nyní mám rozdělaný veliký projekt, nechtě se překvapit.
+- PS: Nyní mám rozdělaný veliký projekt, nechte se překvapit.
 <!---
 Xeroqq/Xeroqq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
